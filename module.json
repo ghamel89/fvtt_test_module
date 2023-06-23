@@ -1,0 +1,15 @@
+{
+  "id": "test-module",
+  "title": "Test Module",
+  "desciption": "A simple module to experiment with",
+  "authors": [
+    {
+      "name": "Gavin"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
